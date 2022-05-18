@@ -2,7 +2,7 @@
 
 A memory game for Front End Development project.
 
-[Try it out!](https://crisner.github.io/memory-game/)
+[Try it out!](https://farhan11111.github.io/JS-Mini-Project---1---JavaScript-Mini-Project---a22s6yaq76b4/)
 
 ## How to play
 
@@ -23,4 +23,4 @@ Try to match the cards with its respective pair with as few moves as possible.
 
 ## Credits
 
-- Made by me([Md farhan fahim ansari](https://github.com/crisner))
+- Made by me([Md farhan fahim ansari](https://github.com/farhan11111))
